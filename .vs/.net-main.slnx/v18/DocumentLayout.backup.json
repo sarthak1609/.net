@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\SettingsView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\SettingsView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ReportingView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\ReportingView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ProductListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\ProductListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ProductDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\ProductDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\POSSessionView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\POSSessionView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\PaymentListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\PaymentListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\OrderListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\OrderListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\OrderDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\OrderDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\KitchenDisplayView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\KitchenDisplayView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\FloorDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\FloorDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\DashboardView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\DashboardView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\CustomerListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDisplayView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\CustomerDisplayView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\CustomerDetailView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CategoryListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\CategoryListView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDetailView copy.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\CustomerDetailView copy.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\AuthView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\views\\AuthView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\utils\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\utils\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\constants\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\constants\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\ui\\Modal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\ui\\Modal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\RegisterScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\pos\\RegisterScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\ReceiptScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\pos\\ReceiptScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\PaymentScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\pos\\PaymentScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\OrderListScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\pos\\OrderListScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\FloorScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\pos\\FloorScreen.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\layout\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\components\\layout\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\backend-dotnet\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\backend-dotnet\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\PosBackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\backend-dotnet\\PosBackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\backend-dotnet\\Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pos\\backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\SettingsView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\SettingsView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\SettingsView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\SettingsView.jsx",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:45:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportingView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ReportingView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\ReportingView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ReportingView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\ReportingView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:45:36.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductListView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ProductListView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\ProductListView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ProductListView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\ProductListView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:45:28.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetailView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ProductDetailView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\ProductDetailView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\ProductDetailView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\ProductDetailView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:45:22.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "POSSessionView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\POSSessionView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\POSSessionView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\POSSessionView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\POSSessionView.jsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:45:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentListView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\PaymentListView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\PaymentListView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\PaymentListView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\PaymentListView.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:44:56.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderListView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\OrderListView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\OrderListView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\OrderListView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\OrderListView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:44:54.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\OrderDetailView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\OrderDetailView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\OrderDetailView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\OrderDetailView.jsx",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:44:45.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KitchenDisplayView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\KitchenDisplayView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\KitchenDisplayView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\KitchenDisplayView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\KitchenDisplayView.jsx",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:44:15.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FloorDetailView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\FloorDetailView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\FloorDetailView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\FloorDetailView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\FloorDetailView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:44:13.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\DashboardView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\DashboardView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\DashboardView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\DashboardView.jsx",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:43:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerListView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerListView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\CustomerListView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerListView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\CustomerListView.jsx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:43:35.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDisplayView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDisplayView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\CustomerDisplayView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDisplayView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\CustomerDisplayView.jsx",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:42:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDetailView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDetailView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\CustomerDetailView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDetailView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\CustomerDetailView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:42:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDetailView copy.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDetailView copy.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\CustomerDetailView copy.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CustomerDetailView copy.jsx",
+              "RelativeToolTip": "pos\\src\\views\\CustomerDetailView copy.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:42:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryListView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CategoryListView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\CategoryListView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\CategoryListView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\CategoryListView.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:41:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthView.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\AuthView.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\views\\AuthView.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\views\\AuthView.jsx",
+              "RelativeToolTip": "pos\\src\\views\\AuthView.jsx",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:40:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\utils\\api.js",
+              "RelativeDocumentMoniker": "pos\\src\\utils\\api.js",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\utils\\api.js",
+              "RelativeToolTip": "pos\\src\\utils\\api.js",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T18:40:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "products.js",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\constants\\products.js",
+              "RelativeDocumentMoniker": "pos\\src\\constants\\products.js",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\constants\\products.js",
+              "RelativeToolTip": "pos\\src\\constants\\products.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T18:40:08.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Modal.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\ui\\Modal.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\ui\\Modal.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\ui\\Modal.jsx",
+              "RelativeToolTip": "pos\\src\\components\\ui\\Modal.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:39:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterScreen.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\RegisterScreen.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\pos\\RegisterScreen.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\RegisterScreen.jsx",
+              "RelativeToolTip": "pos\\src\\components\\pos\\RegisterScreen.jsx",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAIcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:36:30.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReceiptScreen.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\ReceiptScreen.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\pos\\ReceiptScreen.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\ReceiptScreen.jsx",
+              "RelativeToolTip": "pos\\src\\components\\pos\\ReceiptScreen.jsx",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:36:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentScreen.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\PaymentScreen.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\pos\\PaymentScreen.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\PaymentScreen.jsx",
+              "RelativeToolTip": "pos\\src\\components\\pos\\PaymentScreen.jsx",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:36:10.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderListScreen.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\OrderListScreen.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\pos\\OrderListScreen.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\OrderListScreen.jsx",
+              "RelativeToolTip": "pos\\src\\components\\pos\\OrderListScreen.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:35:50.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FloorScreen.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\FloorScreen.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\pos\\FloorScreen.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\pos\\FloorScreen.jsx",
+              "RelativeToolTip": "pos\\src\\components\\pos\\FloorScreen.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:35:42.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\layout\\Navbar.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\components\\layout\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\components\\layout\\Navbar.jsx",
+              "RelativeToolTip": "pos\\src\\components\\layout\\Navbar.jsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:35:14.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\main.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\main.jsx",
+              "RelativeToolTip": "pos\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-23T18:35:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\index.css",
+              "RelativeDocumentMoniker": "pos\\src\\index.css",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\index.css",
+              "RelativeToolTip": "pos\\src\\index.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T18:34:52.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "constants.js",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\constants.js",
+              "RelativeDocumentMoniker": "pos\\src\\constants.js",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\constants.js",
+              "RelativeToolTip": "pos\\src\\constants.js",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-23T18:34:30.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\App.css",
+              "RelativeDocumentMoniker": "pos\\src\\App.css",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\App.css",
+              "RelativeToolTip": "pos\\src\\App.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T18:33:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "pos\\backend-dotnet\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "pos\\backend-dotnet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:31:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "pos\\backend-dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Program.cs",
+              "RelativeToolTip": "pos\\backend-dotnet\\Program.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:30:20.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PosBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\PosBackend.csproj",
+              "RelativeDocumentMoniker": "pos\\backend-dotnet\\PosBackend.csproj",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\PosBackend.csproj",
+              "RelativeToolTip": "pos\\backend-dotnet\\PosBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T18:30:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Database.cs",
+              "RelativeDocumentMoniker": "pos\\backend-dotnet\\Database.cs",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\Database.cs",
+              "RelativeToolTip": "pos\\backend-dotnet\\Database.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T18:29:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "pos\\backend-dotnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\backend-dotnet\\appsettings.json",
+              "RelativeToolTip": "pos\\backend-dotnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T18:29:34.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\App.jsx",
+              "RelativeDocumentMoniker": "pos\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\SARTHAK\\projects\\.net\\.net-main\\pos\\src\\App.jsx",
+              "RelativeToolTip": "pos\\src\\App.jsx",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-04-20T07:24:39.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

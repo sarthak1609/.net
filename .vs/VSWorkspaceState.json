@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pos",
+    "\\pos\\backend-dotnet",
+    "\\pos\\backend-dotnet\\Controllers",
+    "\\pos\\src\\components",
+    "\\pos\\src\\components\\pos",
+    "\\pos\\src\\components\\ui",
+    "\\pos\\src\\constants",
+    "\\pos\\src\\utils",
+    "\\pos\\src\\views"
+  ],
+  "SelectedNode": "\\pos\\backend-dotnet\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
